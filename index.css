@@ -233,11 +233,11 @@ ul li {
 }
 
 .expr-big {
-  height: 45vh;
-  width: 45vh;
+  height: 40vh;
+  width: 40vh;
   margin: 0;
   padding: 0;
-  margin-left: 5vw !important;
+  margin-left: 3vw !important;
 }
 
 .expr-small {
